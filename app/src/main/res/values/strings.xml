@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Configurador de Dimensiones</string>
+    <string name="title_main">Vista Previa de Caja</string>
+    <string name="btn_show_summary">Mostrar Resumen</string>
+    <string name="dialog_title">Configurar Tamaño</string>
+    <string name="label_width">Ancho (10 - 300 dp)</string>
+    <string name="label_height">Alto (10 - 300 dp)</string>
+    <string name="label_elevation">Elevación (0 - 24 dp)</string>
+    <string name="btn_accept">Aceptar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="err_empty">Los campos no pueden estar vacíos</string>
+    <string name="err_out_of_range">Valores fuera de rango permitido</string>
+    <string name="summary_toast">Ancho: %1$d dp, Alto: %2$d dp, Elevación: %3$d dp</string>
+</resources>
